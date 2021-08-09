@@ -1,0 +1,25 @@
+{
+  "name": "logmei-react-native-elements",
+  "version": "0.1.1",
+  "description": "react-native组件库",
+  "main": "index.ts",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "logmei",
+  "license": "MIT",
+  "dependencies": {
+    "@react-navigation/native": "^6.0.2",
+    "react": "^17.0.2",
+    "react-native": "^0.64.2",
+    "react-native-camera": "^4.0.1",
+    "react-native-elements": "^3.4.2",
+    "react-native-safe-area-context": "^3.3.0",
+    "react-native-screens": "^3.5.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-vector-icons": "^8.1.0"
+  }
+}
